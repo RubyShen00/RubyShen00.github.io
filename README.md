@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ruby's GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RubyShen00/RubyShen00.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
